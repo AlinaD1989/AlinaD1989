@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alina</h1>
+
 <h3 align="center">Starting my journey to become a Full Stack Web Developer</h3>
+<h4 align="center"> Reading books :books: and drinking coffee :coffee:</h4>
 
 
 <h3 align="left">Languages and Tools:</h3>
